@@ -1,4 +1,4 @@
-# BMI Calculator
+# IMT_KALKULATOR
 
 ![Screenshot](https://res.cloudinary.com/nitishk72/image/upload/v1595680512/nstack_in/blog/flutter/flutter-bmi-calculator.png)
 
